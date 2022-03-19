@@ -18,7 +18,7 @@
 
 ## About Me :man_technologist:
 - 🌱 I’m currently learning HTML, CSS, Javascript, Java etc.
-- 📫 How to reach me: frknsprnl@hotmail.com
+- 📫 How to reach me: -> <a href="mailto:frknsprnl@hotmail.com"> frknsprnl@hotmail.com </a> 
 
 <hr>
 
