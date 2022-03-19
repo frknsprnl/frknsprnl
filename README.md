@@ -16,7 +16,7 @@
 </div>
 <hr>
 
-## About Me 💬
+## About Me :man_technologist:
 - 🌱 I’m currently learning HTML, CSS, Javascript, Java etc.
 - 📫 How to reach me: frknsprnl@hotmail.com
 
