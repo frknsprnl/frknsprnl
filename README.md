@@ -3,12 +3,7 @@
 </div>
 <br>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/furkansupurenel/" >
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/frknsprnl" >
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+ 
   <div align="center">
   <img src="https://komarev.com/ghpvc/?username=frknsprnl&style=flat-square&color=blue" alt=""/>
   </div>
@@ -17,10 +12,25 @@
 <hr>
 
 ## About Me :man_technologist:
-- 🌱 I’m currently learning HTML, CSS, Javascript, Java etc.
+- 🌱 I’m currently learning **Java from Kodluyoruz & Patika.dev**
 - 📫 How to reach me: -> <a href="mailto:frknsprnl@hotmail.com"> frknsprnl@hotmail.com </a> 
 
-<hr>
+
+
+## Connect with me:
+<div>
+  <a href="https://twitter.com/frknsprnl">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.linkedin.com/in/furkansupurenel/">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
+  </a>
+  <a href="https://www.hackerrank.com/frknsprnl?hr_r=1">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="Hackerrank" width="40" height="40"/>&nbsp;
+  </a>
+</div>
+
+
 
 ## Languages and Tools
 <div>
@@ -29,11 +39,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="heknowshowtogoogle" width="40" height="40"/>&nbsp;
 
 </div>
 
 <!--
-**frknsprnl/frknsprnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**frknsprnl/frknsprnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profileGithub
 
 Here are some ideas to get you started:
 
