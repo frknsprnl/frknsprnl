@@ -19,13 +19,13 @@
 
 ## Connect with me:
 <div>
-  <a href="https://twitter.com/frknsprnl">
+  <a href="https://twitter.com/frknsprnl" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.linkedin.com/in/furkansupurenel/">
+  <a href="https://www.linkedin.com/in/furkansupurenel/" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
   </a>
-  <a href="https://www.hackerrank.com/frknsprnl?hr_r=1">
+  <a href="https://www.hackerrank.com/frknsprnl?hr_r=1" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="Hackerrank" width="40" height="40"/>&nbsp;
   </a>
 </div>
