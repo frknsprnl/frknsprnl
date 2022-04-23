@@ -1,23 +1,25 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="300" width="600">
-</div>
-<br>
-<div id="badges" align="center">
- 
-  <div align="center">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=frknsprnl&style=flat-square&color=blue" alt=""/>
-  </div>
+</div>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=D7397B&center=true&vCenter=true&lines=Hi+there%2C+I'm+Furkan+%F0%9F%91%8B;Junior+Web+Developer)](https://git.io/typing-svg)
+  
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="300" width="600">
 </div>
 <hr>
 
-## About Me :man_technologist:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=About+Me)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **Java from Kodluyoruz & Patika.dev**
-- 📫 How to reach me: -> <a href="mailto:frknsprnl@hotmail.com"> frknsprnl@hotmail.com </a> 
 
-
-
-## Connect with me:
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=Connect+With+Me)](https://git.io/typing-svg)
 <div>
   <a href="https://twitter.com/frknsprnl" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
@@ -30,9 +32,9 @@
   </a>
 </div>
 
+<br>
 
-
-## Languages and Tools
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=Languages+and+Tools)](https://git.io/typing-svg)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -44,6 +46,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="heknowshowtogoogle" width="40" height="40"/>&nbsp;
 
 </div>
+
+<br> <br>
+
+[![frknsprnl's GitHub stats](https://github-readme-stats.vercel.app/api?username=frknsprnl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **frknsprnl/frknsprnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profileGithub
