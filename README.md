@@ -8,12 +8,7 @@
   
 </div>
 
-<br>
-
-<div align="center">
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" height="300" width="600">
-</div>
-<hr>
+<img src="https://pngimg.com/uploads/github/small/github_PNG40.png" align="right" height="200" width="200">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=About+Me)](https://git.io/typing-svg)
 
@@ -31,6 +26,9 @@
   <a href="https://www.hackerrank.com/frknsprnl?hr_r=1" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="Hackerrank" width="40" height="40"/>&nbsp;
   </a>
+  <a href="https://discord.gg/Z9efD89Z" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" title="Hackerrank" alt="Hackerrank" width="40" height="40"/>&nbsp;
+    </a>
 </div>
 
 <br>
@@ -38,14 +36,16 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=Languages+and+Tools)](https://git.io/typing-svg)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="heknowshowtogoogle" width="40" height="40"/>&nbsp;
-
+ 
+  
 </div>
 
 <br> <br>
