@@ -12,8 +12,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=About+Me)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **Javascript from Patika.dev**.
-- 💬 Ask me anything about **my projects👨‍💻**.
+- 🌱 I’m currently improving myself in **Javascript**.
+- 💬 Ask me anything about **My Projects/HTML/CSS/JS👨‍💻**.
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=Connect+With+Me)](https://git.io/typing-svg)
 <div>
