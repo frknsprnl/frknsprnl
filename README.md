@@ -28,7 +28,7 @@
 <div align="center">
   <img src="https://img.icons8.com/nolan/344/html-5.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/css-filetype.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="80" height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/b-key.png" title="Bootstrap" width="80" height="80"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/react-native.png" title="React" alt="React" width="80" height="80"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
