@@ -1,56 +1,44 @@
+
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=frknsprnl&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=frknsprnl&style=flat&color=blueviolet" alt=""/>
 </div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=D7397B&center=true&vCenter=true&lines=Hi+there%2C+I'm+Furkan+%F0%9F%91%8B;Junior+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Consolas&color=9034dc&center=true&vCenter=true&lines=Hi+there%2C+I'm+Furkan+%F0%9F%91%8B;Junior+Web+Developer)](https://git.io/typing-svg)
   
 </div>
 
-<img src="https://pngimg.com/uploads/github/small/github_PNG40.png" align="right" height="200" width="200">
+<div align="center"> <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"> </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=About+Me)](https://git.io/typing-svg)
 
-- 🌱 I’m currently improving myself in **Javascript** and learning **React**.
-- 💬 Ask me anything about **My Projects/HTML/CSS/JS👨‍💻**.
+## Connect With Me!
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=Connect+With+Me)](https://git.io/typing-svg)
-<div>
-  <a href="https://twitter.com/frknsprnl" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Twitter" alt="Twitter" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.linkedin.com/in/furkansupurenel/" target="_blank">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  title="LinkedIn" alt="LinkedIn" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://www.hackerrank.com/frknsprnl?hr_r=1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" title="Hackerrank" alt="Hackerrank" width="40" height="40"/>&nbsp;
-  </a>
-  <a href="https://discord.gg/Z9efD89Z" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" title="Hackerrank" alt="Hackerrank" width="40" height="40"/>&nbsp;
-    </a>
-</div>
+<p align="center">
+	<a href="mailto:frknsprnl@hotmail.com"><img src="https://img.icons8.com/nolan/344/gmail.png" title="Gmail"  width="80" height="80" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/furkansupurenel/"><img src="https://img.icons8.com/nolan/344/linkedin.png" title="LinkedIn"  width="80" height="80" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/frknsprnl"><img src="https://img.icons8.com/nolan/344/twitter.png" width="80" title="Twitter"  height="80" alt="Twitter"/></a>
+	<a href="https://www.instagram.com/frknsprnl/"><img src="https://img.icons8.com/nolan/344/instagram-new.png" title="Instagram"  width="80" height="80" alt="Instagram"/></a>
+  <a href="https://steamcommunity.com/id/StreaksWild"><img src="https://img.icons8.com/nolan/344/steam--v2.png" title="Steam"  width="80" height="80" alt="Steam"/></a>
+</p>
 
 <br>
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&color=D83A7C&lines=Languages+and+Tools)](https://git.io/typing-svg)
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="heknowshowtogoogle" width="40" height="40"/>&nbsp;
- 
-  
+## Languages and Tools
+<div align="center">
+  <img src="https://img.icons8.com/nolan/344/html-5.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/css-filetype.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" width="80" height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/react-native.png" title="React" alt="React" width="80" height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/visual-studio.png" title="VSCode" alt="VSCode" width="80"80 height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/git.png" title="Git" color="white" alt="Git" width="80" height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/github.png" title="Github" alt="Github" width="80" height="80"/>&nbsp; 
 </div>
 
 <br> <br>
 
-[![frknsprnl's GitHub stats](https://github-readme-stats.vercel.app/api?username=frknsprnl&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
