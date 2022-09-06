@@ -26,16 +26,16 @@
 
 ## Languages and Tools
 <div align="center">
-  <img src="https://img.icons8.com/nolan/344/html-5.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/css-filetype.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/b-key.png" title="Bootstrap" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/fluency/344/node-js.png" title="NodeJS" alt="NodeJS" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/react-native.png" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" title="Java" alt="Java" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/visual-studio.png" title="VSCode" alt="VSCode" width="80"80 height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/git.png" title="Git" color="white" alt="Git" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/github.png" title="Github" alt="Github" width="80" height="80"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/html-5.png" title="HTML5" alt="HTML" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/css-filetype.png"  title="CSS3" alt="CSS" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/b-key.png" title="Bootstrap" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/javascript.png" title="JavaScript" alt="JavaScript" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/344/node-js.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/react-native.png" title="React" alt="React" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" title="Java" alt="Java" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/visual-studio.png" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/git.png" title="Git" color="white" alt="Git" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/344/github.png" title="Github" alt="Github" width="60" height="60"/>&nbsp;
 </div>
 
 <br> <br>
