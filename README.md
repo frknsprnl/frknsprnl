@@ -37,6 +37,7 @@
   <img src="https://img.icons8.com/nolan/344/visual-studio.png" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/git.png" title="Git" color="white" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/github.png" title="Github" alt="Github" width="60" height="60"/>&nbsp;
+  <img src="https://img.icons8.com/nolan/452/sql.png" title="SQL" alt="SQL" width="60" height="60"/>&nbsp;
 </div>
 
 <br> <br>
