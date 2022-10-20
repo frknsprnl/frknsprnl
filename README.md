@@ -20,7 +20,7 @@
 	<a href="https://twitter.com/frknsprnl"><img src="https://img.icons8.com/nolan/344/twitter.png" width="80" title="Twitter"  height="80" alt="Twitter"/></a>
 	<a href="https://www.instagram.com/frknsprnl/"><img src="https://img.icons8.com/nolan/344/instagram-new.png" title="Instagram"  width="80" height="80" alt="Instagram"/></a>
   <a href="https://steamcommunity.com/id/StreaksWild"><img src="https://img.icons8.com/nolan/344/steam--v2.png" title="Steam"  width="80" height="80" alt="Steam"/></a>
-  <a href="https://www.hackerrank.com/frknsprnl?hr_r=1"><img src="https://img.icons8.com/nolan/344/1A6DFF/C822FF/h-key.png" title="Hackerrank"  width="80" height="80" alt="Hackerrank"/></a>  
+  <a href="https://www.hackerrank.com/frknsprnl?hr_r=1"><img src="https://github.com/frknsprnl/logo-works/blob/main/hackerrankOutline.png" title="Hackerrank"  width="80" height="80" alt="Hackerrank"/></a>  
 </p>
 
 <br>
@@ -29,14 +29,15 @@
 <div align="center">
   <img src="https://img.icons8.com/nolan/344/html-5.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/css-filetype.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/b-key.png" title="Bootstrap" width="80" height="80"/>&nbsp;
+  <img src="https://github.com/frknsprnl/logo-works/blob/main/tailwindOutline.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
   <img src="https://img.icons8.com/nolan/452/sql.png" title="SQL" alt="SQL" width="80" height="80"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/react-native.png" title="React" alt="React" width="80" height="80"/>&nbsp;
   <br>
   <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://img.icons8.com/fluency/344/node-js.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/frknsprnl/logo-works/blob/main/nodejs.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/visual-studio.png" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/frknsprnl/logo-works/blob/main/bootstrapOutline.png" title="Bootstrap" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/git.png" title="Git" color="white" alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://img.icons8.com/nolan/344/github.png" title="Github" alt="Github" width="60" height="60"/>&nbsp;
 </div>
