@@ -14,32 +14,27 @@
 
 ## Connect With Me!
 
-<p align="center">
-	<a href="mailto:frknsprnl@hotmail.com"><img src="https://img.icons8.com/nolan/344/gmail.png" title="Gmail"  width="80" height="80" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/furkansupurenel/"><img src="https://img.icons8.com/nolan/344/linkedin.png" title="LinkedIn"  width="80" height="80" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/frknsprnl"><img src="https://img.icons8.com/nolan/344/twitter.png" width="80" title="Twitter"  height="80" alt="Twitter"/></a>
-	<a href="https://www.instagram.com/frknsprnl/"><img src="https://img.icons8.com/nolan/344/instagram-new.png" title="Instagram"  width="80" height="80" alt="Instagram"/></a>
-  <a href="https://steamcommunity.com/id/StreaksWild"><img src="https://img.icons8.com/nolan/344/steam--v2.png" title="Steam"  width="80" height="80" alt="Steam"/></a>
-  <a href="https://www.hackerrank.com/frknsprnl?hr_r=1"><img src="https://github.com/frknsprnl/logo-works/blob/main/hackerrankOutline.png" title="Hackerrank"  width="76" height="76" alt="Hackerrank"/></a>  
-</p>
+<div align="center">
+	
+| Gmail | LinkedIn | Twitter | Instagram | Steam | HackerRank | 
+| :----: | :----: | :----: | :----: | :----: | :----: |
+| <a href="mailto:frknsprnl@hotmail.com"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/gmail.png" title="Gmail"  width="80" height="80" alt="Gmail"/></a> | <a href="https://www.linkedin.com/in/furkansupurenel/"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/linkedin.png" title="LinkedIn"  width="80" height="80" alt="LinkedIn"/></a> | <a href="https://twitter.com/frknsprnl"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/twitter.png" width="80" title="Twitter"  height="80" alt="Twitter"/></a> | <a href="https://www.instagram.com/frknsprnl/"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/instagram.png" title="Instagram"  width="80" height="80" alt="Instagram"/></a> | <a href="https://steamcommunity.com/id/StreaksWild"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/steam.png" title="Steam"  width="80" height="80" alt="Steam"/></a> | <a href="https://www.hackerrank.com/frknsprnl?hr_r=1"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/hackerrank.png" title="Hackerrank"  width="85" height="85" alt="Hackerrank"/></a> |	
+	
+</div>
 
 <br>
 
 ## Languages and Tools
 <div align="center">
-  <img src="https://img.icons8.com/nolan/344/html-5.png" title="HTML5" alt="HTML" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/css-filetype.png"  title="CSS3" alt="CSS" width="80" height="80"/>&nbsp;
-  <img src="https://github.com/frknsprnl/logo-works/blob/main/tailwindOutline.png"  title="Tailwind CSS" alt="Tailwind CSS" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/452/sql.png" title="SQL" alt="SQL" width="80" height="80"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/react-native.png" title="React" alt="React" width="80" height="80"/>&nbsp;
-  <br>
-  <img src="https://img.icons8.com/nolan/344/java-coffee-cup-logo.png" title="Java" alt="Java" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/frknsprnl/logo-works/blob/main/nodejs.png" title="NodeJS" alt="NodeJS" width="60" height="60"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/visual-studio.png" title="VSCode" alt="VSCode" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/frknsprnl/logo-works/blob/main/bootstrapOutline.png" title="Bootstrap" width="60" height="60"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/git.png" title="Git" color="white" alt="Git" width="60" height="60"/>&nbsp;
-  <img src="https://img.icons8.com/nolan/344/github.png" title="Github" alt="Github" width="60" height="60"/>&nbsp;
+	
+| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React | 
+| :----: | :----: | :----: | :----: | :----: | :----: |
+| <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/html.png" title="HTML5" alt="HTML" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/css.png"  title="CSS3" alt="CSS" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/bootstrap.png" title="Bootstrap" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/tailwind.png"  title="Tailwind CSS" alt="Tailwind CSS" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/react.png" title="React" alt="React" width="80" height="80"/> |	
+
+| Java | Node JS | PostgreSQL | MongoDB | Git | Github | VS Code | 
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/java.png" title="Java" alt="Java" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/nodejs.png" title="NodeJS" alt="NodeJS" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/postgresql.png" title="PostgreSQL" alt="SQL" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/mongodb.png" title="MongoDB" alt="MongoDB" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/git.png" title="Git" color="white" alt="Git" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/github.png" title="Github" alt="Github" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/vscode.png" title="VSCode" alt="VSCode" width="70" height="70"/> |	
+	
 </div>
 
 <br> <br>
