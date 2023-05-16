@@ -27,9 +27,9 @@
 ## Languages and Tools
 <div align="center">
 	
-| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React | 
-| :----: | :----: | :----: | :----: | :----: | :----: |
-| <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/html.png" title="HTML5" alt="HTML" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/css.png"  title="CSS3" alt="CSS" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/bootstrap.png" title="Bootstrap" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/tailwind.png"  title="Tailwind CSS" alt="Tailwind CSS" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/react.png" title="React" alt="React" width="80" height="80"/> |	
+| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React | Angular
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/html.png" title="HTML5" alt="HTML" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/css.png"  title="CSS3" alt="CSS" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/bootstrap.png" title="Bootstrap" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/tailwind.png"  title="Tailwind CSS" alt="Tailwind CSS" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/react.png" title="React" alt="React" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/angular.png" title="React" alt="React" width="80" height="80"/> |	
 
 | Java | Node JS | PostgreSQL | MongoDB | Git | Github | VS Code | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
