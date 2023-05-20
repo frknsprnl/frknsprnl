@@ -11,6 +11,9 @@
 
 <div align="center"> <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"> </div>
 
+<pre> 
+	<div align="center">Personal Website: <a href="https://frknsprnl.vercel.app">frknsprnl.vercel.app</a> </div>
+</pre>
 
 ## Connect With Me!
 
