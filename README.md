@@ -30,9 +30,9 @@
 <div align="center">
 
 ### 🖥 Frontend
-| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React | React Native | Next.js | Typescript |
+| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React | React Native | Typescript | Next.js |
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| <img width="64" height="64" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/> | <img width="56" height="56" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> |
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="56" height="56" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/> | 
 
 ### ⚙️ Backend
 | Node.js | Python | SQL |
