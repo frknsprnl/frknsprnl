@@ -1,4 +1,3 @@
-
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=frknsprnl&style=flat&color=blueviolet" alt=""/>
 </div>
@@ -27,16 +26,37 @@
 	
 </div>
 
-## ⚙️ Languages & Tools
+## ⚙️ Skills & Tools
 <div align="center">
-	
-| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React / Native | Next.js
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| <img width="64" height="64" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/> |
 
-| Node JS | SQL | MongoDB | Git | Github | VS Code | 
-| :----: | :----: | :----: | :----: | :----: | :----: |
-| <img width="64" height="64" src="https://img.icons8.com/nolan/64/node-js.png" alt="node-js"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/visual-studio.png" alt="visual-studio"/> |	
+### 🖥 Frontend
+| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React | React Native | Next.js |
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/> |
+
+### ⚙️ Backend
+| Node.js | Python | SQL |
+| :----: | :----: | :----: |
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/node-js.png" alt="node-js"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/> |
+
+### 🗄 Database
+| MongoDB | Redis | Elasticsearch |
+| :----: | :----: | :----: |
+| <img width="56" height="56" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/redis.png" alt="redis"/> | <img width="48" height="48" src="https://img.icons8.com/color/48/elasticsearch.png" alt="elasticsearch"/> |
+
+### 🛠 DevOps & Tools
+| Git | Docker | Kafka | Jenkins | Grafana |
+| :----: | :----: | :----: | :----: | :----: |
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/docker.png" alt="docker"/> | <img width="56" height="56" src="https://img.icons8.com/nolan/64/apache-kafka.png" alt="apache-kafka"/> | <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/> | <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png" alt="external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo"/> |
+
+### ✅ Testing
+| Jest | Cypress |
+| :----: | :----: |
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/test-passed.png" alt="test-passed"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/test-passed.png" alt="test-passed"/> |
+
+</div>
+
+
 	
 </div>
 
