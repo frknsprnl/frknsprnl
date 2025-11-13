@@ -42,15 +42,15 @@
 ### 🗄 Database
 | MongoDB | Redis | Elasticsearch |
 | :----: | :----: | :----: |
-| <img width="56" height="56" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/redis.png" alt="redis"/> | <img width="48" height="48" src="https://img.icons8.com/color/48/elasticsearch.png" alt="elasticsearch"/> |
+| <img width="56" height="56" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/redis.png" alt="redis"/> | <img width="56" height="56" src="https://img.icons8.com/color/48/elasticsearch.png" alt="elasticsearch"/> |
 
 ### 🛠 DevOps & Tools
 | Git | Docker | Kafka | Jenkins | Grafana |
 | :----: | :----: | :----: | :----: | :----: |
-| <img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/docker.png" alt="docker"/> | <img width="56" height="56" src="https://img.icons8.com/nolan/64/apache-kafka.png" alt="apache-kafka"/> | <img width="48" height="48" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/> | <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png" alt="external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo"/> |
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/docker.png" alt="docker"/> | <img width="56" height="56" src="https://img.icons8.com/nolan/64/apache-kafka.png" alt="apache-kafka"/> | <img width="56" height="56" src="https://img.icons8.com/color/48/jenkins.png" alt="jenkins"/> | <img width="56" height="56" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo.png" alt="external-data-visualization-and-monitoring-with-support-for-graphite-and-influxdb-logo-color-tal-revivo"/> |
 
 ### ✅ Testing
-| Jest | Cypress |
+| Jest (Unit) | Cypress (End-to-End) |
 | :----: | :----: |
 | <img width="64" height="64" src="https://img.icons8.com/nolan/64/test-passed.png" alt="test-passed"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/test-passed.png" alt="test-passed"/> |
 
