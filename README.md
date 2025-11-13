@@ -11,51 +11,33 @@
 
 <div align="center"> <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif"> </div>
 
-<pre> 
-	<div align="center">Personal Website: <a href="https://frknsprnl.vercel.app">frknsprnl.vercel.app</a> </div>
-</pre>
+<br>
+<!-- Personal Website -->
+<p align="center">
+  🌐 <strong>Personal Website:</strong> <a href="https://frknsprnl.vercel.app" target="_blank">frknsprnl.vercel.app</a>
+</p>
 
-## Connect With Me!
+## 🌍 Connect With Me
 
 <div align="center">
 	
-| Gmail | LinkedIn | Twitter | Instagram | Steam | HackerRank | 
-| :----: | :----: | :----: | :----: | :----: | :----: |
-| <a href="mailto:frknsprnl@hotmail.com"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/gmail.png" title="Gmail"  width="80" height="80" alt="Gmail"/></a> | <a href="https://www.linkedin.com/in/furkansupurenel/"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/linkedin.png" title="LinkedIn"  width="80" height="80" alt="LinkedIn"/></a> | <a href="https://twitter.com/frknsprnl"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/twitter.png" width="80" title="Twitter"  height="80" alt="Twitter"/></a> | <a href="https://www.instagram.com/frknsprnl/"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/instagram.png" title="Instagram"  width="80" height="80" alt="Instagram"/></a> | <a href="https://steamcommunity.com/id/StreaksWild"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/steam.png" title="Steam"  width="80" height="80" alt="Steam"/></a> | <a href="https://www.hackerrank.com/frknsprnl?hr_r=1"><img src="https://github.com/frknsprnl/logo-works/blob/main/logos/hackerrank.png" title="Hackerrank"  width="85" height="85" alt="Hackerrank"/></a> |	
+| Gmail | LinkedIn | Twitter | Instagram | 
+| :----: | :----: | :----: | :----: |
+| <a href="mailto:furkansprnl@gmail.com"><img width="64" height="64" src="https://img.icons8.com/nolan/64/gmail-new.png" alt="gmail-new" /></a> | <a href="https://www.linkedin.com/in/furkansupurenel/"><img width="64" height="64" src="https://img.icons8.com/nolan/64/linkedin.png" alt="linkedin"/></a> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/twitterx.png" alt="twitterx"/> </a> | <a href="https://www.instagram.com/frknsprnl/"> <img width="64" height="64" src="https://img.icons8.com/nolan/64/instagram-new.png" alt="instagram-new"/> </a> |
 	
 </div>
 
-<br>
-
-## Languages and Tools
+## ⚙️ Languages & Tools
 <div align="center">
 	
-| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React | Angular
+| HTML5 | CSS3 | Bootstrap | Tailwind | Javascript | React / Native | Next.js
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/html.png" title="HTML5" alt="HTML" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/css.png"  title="CSS3" alt="CSS" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/bootstrap.png" title="Bootstrap" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/tailwind.png"  title="Tailwind CSS" alt="Tailwind CSS" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/javascript.png" title="JavaScript" alt="JavaScript" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/react.png" title="React" alt="React" width="80" height="80"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/angular.png" title="React" alt="React" width="80" height="80"/> |	
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/> |
 
-| Java | Node JS | PostgreSQL | MongoDB | Git | Github | VS Code | 
-| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/java.png" title="Java" alt="Java" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/nodejs.png" title="NodeJS" alt="NodeJS" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/postgresql.png" title="PostgreSQL" alt="SQL" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/mongodb.png" title="MongoDB" alt="MongoDB" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/git.png" title="Git" color="white" alt="Git" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/github.png" title="Github" alt="Github" width="70" height="70"/> | <img src="https://github.com/frknsprnl/logo-works/blob/main/logos/vscode.png" title="VSCode" alt="VSCode" width="70" height="70"/> |	
+| Node JS | SQL | MongoDB | Git | Github | VS Code | 
+| :----: | :----: | :----: | :----: | :----: | :----: |
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/node-js.png" alt="node-js"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/git.png" alt="git"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/github.png" alt="github"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/visual-studio.png" alt="visual-studio"/> |	
 	
 </div>
 
 <br> <br>
-
-
-
-
-<!--
-**frknsprnl/frknsprnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profileGithub
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
