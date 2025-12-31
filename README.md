@@ -13,7 +13,7 @@
 <br>
 <!-- Personal Website -->
 <p align="center">
-  🌐 <strong>Personal Website:</strong> <a href="https://frknsprnl-portfolio.vercel.app/" target="_blank">https://frknsprnl-portfolio.vercel.app/</a>
+  🌐 <strong>Personal Website:</strong> <a href="https://frknsprnl.vercel.app/" target="_blank">https://frknsprnl.vercel.app/</a>
 </p>
 
 ## 🌍 Connect With Me
