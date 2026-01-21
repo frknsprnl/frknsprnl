@@ -35,14 +35,14 @@
 | <img width="64" height="64" src="https://img.icons8.com/nolan/64/html-5.png" alt="html-5"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/css3.png" alt="css3"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/bootstrap.png" alt="bootstrap"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/tailwind_css.png" alt="tailwind_css"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/javascript.png" alt="javascript"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/react-native.png" alt="react-native"/> | <img width="56" height="56" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/nextjs.png" alt="nextjs"/> | 
 
 ### ⚙️ Backend
-| Node.js | Python | SQL |
+| Node.js | Python | .NET6+ |
 | :----: | :----: | :----: |
-| <img width="64" height="64" src="https://img.icons8.com/nolan/64/node-js.png" alt="node-js"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/> |
+| <img width="64" height="64" src="https://img.icons8.com/nolan/64/node-js.png" alt="node-js"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/python.png" alt="python"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/c-sharp-logo.png" alt="sql"/> |
 
 ### 🗄 Database
-| MongoDB | Redis | Elasticsearch |
-| :----: | :----: | :----: |
-| <img width="56" height="56" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/redis.png" alt="redis"/> | <img width="56" height="56" src="https://img.icons8.com/color/48/elasticsearch.png" alt="elasticsearch"/> |
+| MongoDB | Redis | Elasticsearch | SQL |
+| :----: | :----: | :----: | :----: |
+| <img width="56" height="56" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/redis.png" alt="redis"/> | <img width="56" height="56" src="https://img.icons8.com/color/48/elasticsearch.png" alt="elasticsearch"/> | <img width="64" height="64" src="https://img.icons8.com/nolan/64/sql.png" alt="sql"/> |
 
 ### 🛠 DevOps & Tools
 | Git | Docker | Kafka | Jenkins | Grafana |
